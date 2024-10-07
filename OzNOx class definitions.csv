@@ -1,0 +1,27 @@
+Class Key,Num Tail Chains,Num Fatty Acyls,Num Sphingoid Bases,OzNOx MS1 m/z Shift,OzNOx MS2 Collision Energy,OzNOx MS2 Product Ion Scheme 1,Scheme 1 Additional Mass Loss,OzNOx MS2 Product Ion Scheme 2,Scheme 2 Additional Mass Loss,Comment
+AcCa,1,1,0,76.97491,15,TRUE,0,FALSE,0,OzNOx MS2 parameters are educated guess.
+Cer,2,1,1,76.97491,16,TRUE,18.01056,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+CE,1,1,0,76.97491,35,FALSE,0,FALSE,0,No useful OzNOx MS2 Product Ion Scheme yet known
+DG,2,2,0,76.97491,25,TRUE,35.03712,TRUE,18.0343724,OzNOx MS2 parameters optimized by Q E HF direction infusion
+FA,1,1,0,76.97491,10,TRUE,0,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+GalCer,2,1,1,76.97491,22,TRUE,180.06339,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+Hex1Cer,2,1,1,76.97491,22,TRUE,180.06339,FALSE,0,GalCer is a representative of Hex1Cer
+Hex2Cer,2,1,1,76.97491,22,TRUE,342.11621,FALSE,0,Placeholder OzNOx MS2 parameters based on GalCer
+Hex3Cer,2,1,1,76.97491,22,TRUE,504.16903,FALSE,0,Placeholder OzNOx MS2 parameters based on GalCer
+LBPA,2,2,0,76.97491,15,TRUE,35.037112,FALSE,0,OzNOx MS2 parameters are educated guess.
+LPA,1,1,0,76.97491,23,TRUE,115.00344,FALSE,0,Placeholder OzNOx MS2 parameters based on PA
+LPC,1,1,0,76.97491,15,TRUE,0,FALSE,0,Placeholder OzNOx MS2 parameters based on PC
+LPE,1,1,0,76.97491,16,TRUE,0,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+LPG,1,1,0,76.97491,29,TRUE,172.01368,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+LPI,1,1,0,76.97491,23,TRUE,277.05627,FALSE,0,Placeholder OzNOx MS2 parameters based on PI
+LPS,1,1,0,76.97491,23,TRUE,185.00892,FALSE,0,Placeholder OzNOx MS2 parameters based on PS
+MG,1,1,0,76.97491,30,TRUE,35.03712,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+PA,2,2,0,76.97491,23,TRUE,115.00344,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+PC,2,2,0,76.97491,15,TRUE,0,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+PE,2,2,0,76.97491,25,TRUE,141.01909,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+PG,2,2,0,76.97491,25,TRUE,189.04022,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+PI,2,2,0,76.97491,23,TRUE,277.05627,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+PS,2,2,0,76.97491,23,TRUE,185.00892,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+SM,2,1,1,76.97491,15,TRUE,0,FALSE,0,OzNOx MS2 parameters optimized by Q E HF direction infusion
+SPH,1,0,1,76.97491,16,TRUE,18.01056,FALSE,0,Placeholder OzNOx MS2 parameters based on Cer
+TG,3,3,0,76.97491,15,TRUE,0,TRUE,18.0343724,OzNOx MS2 parameters optimized by Q E HF direction infusion

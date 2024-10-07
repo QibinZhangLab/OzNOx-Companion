@@ -1,0 +1,13 @@
+Sample Name,OzID (MS1),OzNOx (MS2),Sample Group
+ddMS2 1,TRUE,TRUE,Plasma
+ddMS2 2,TRUE,TRUE,Plasma
+ddMS2 3,TRUE,TRUE,Plasma
+PRM 1,FALSE,TRUE,Plasma
+PRM 2,FALSE,TRUE,Plasma
+PRM 3,FALSE,TRUE,Plasma
+ddMS2 1,TRUE,TRUE,Liver
+ddMS2 2,TRUE,TRUE,Liver
+ddMS2 3,TRUE,TRUE,Liver
+PRM 1,FALSE,TRUE,Liver
+PRM 2,FALSE,TRUE,Liver
+PRM 3,FALSE,TRUE,Liver
